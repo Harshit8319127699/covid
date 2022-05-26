@@ -1,0 +1,22 @@
+nav{
+width:inherit;
+height: 10vh;
+background-color: #034559;
+display: flex;
+justify-content: center;
+align-items: center; 
+flex-direction: column;
+}
+nav h2{
+    color: white;
+    font-family: montserrat;
+    font-weight: 400;
+    letter-spacing: 0.3vmax;
+}
+nav h6{
+    color: white;
+    font-family: montserrat;
+    font-weight: 400;
+    margin-top: 1vmax;
+    letter-spacing: 1vmax;
+}
